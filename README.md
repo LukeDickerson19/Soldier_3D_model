@@ -1,2 +1,3 @@
-# Soldier_3D_model
+# Soldier 3D model
 made with Blender
+
